@@ -1,0 +1,43 @@
+button {
+	
+	
+	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 1em;
+
+	}
+
+h1
+{text-align: center;
+font-family: "Comic Sans MS", cursive, sans-serif;
+color: #480372;
+font-size: 3em;
+}
+h3
+{text-align: center;
+font-family: "Comic Sans MS", cursive, sans-serif;color: #480372;font-size: 2em;
+}
+
+#container {
+	position: relative;
+	top: 30px;
+	outline:2px solid #000;
+	font-size: 0;
+	margin:auto;
+	height:960px;
+	width:960px;
+	padding: 0;
+	border: none;
+}
+
+.grid {
+	margin:0;
+	padding:0;
+	border:none;
+	outline:1px solid #000;
+	display:inline-block;
+}
+body {
+
+       background-color:#d2d5db;
+   }
